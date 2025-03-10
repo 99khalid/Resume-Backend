@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SGxvJmX/HlkHptx74cW4eeZUQxGRAFjeT93iJYz84ZQPx9ZZ/xmOK7D5FW7gYpkUlhhfAf+2XXSydJ9qQbAC3w==",
+  "dgSpecHash": "aEdnoUb50yo1IgJbantIU+ZNT11jq756tyc9voLd3WniEKxULuXwedwxlBz7kezE8jLQ7UsnNgCrjX/nbkssjQ==",
   "success": true,
-  "projectFilePath": "D:\\ResumeBuilderAssignment\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\Backend\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL ETC\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL ETC\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

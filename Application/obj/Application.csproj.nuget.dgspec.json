@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ResumeBuilderAssignment\\Application\\Application.csproj": {}
+    "D:\\Backend\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\ResumeBuilderAssignment\\Application\\Application.csproj": {
+    "D:\\Backend\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ResumeBuilderAssignment\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Backend\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\ResumeBuilderAssignment\\Application\\Application.csproj",
+        "projectPath": "D:\\Backend\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\DELL ETC\\.nuget\\packages\\",
-        "outputPath": "D:\\ResumeBuilderAssignment\\Application\\obj\\",
+        "outputPath": "D:\\Backend\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL ETC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ResumeBuilderAssignment\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\ResumeBuilderAssignment\\Domain\\Domain.csproj"
+              "D:\\Backend\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Backend\\Domain\\Domain.csproj"
               },
-              "D:\\ResumeBuilderAssignment\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\ResumeBuilderAssignment\\Infrastructure\\Infrastructure.csproj"
+              "D:\\Backend\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\Backend\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "D:\\ResumeBuilderAssignment\\Domain\\Domain.csproj": {
+    "D:\\Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ResumeBuilderAssignment\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\ResumeBuilderAssignment\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\DELL ETC\\.nuget\\packages\\",
-        "outputPath": "D:\\ResumeBuilderAssignment\\Domain\\obj\\",
+        "outputPath": "D:\\Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL ETC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,14 +144,14 @@
         }
       }
     },
-    "D:\\ResumeBuilderAssignment\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Backend\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ResumeBuilderAssignment\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Backend\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\ResumeBuilderAssignment\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\Backend\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\DELL ETC\\.nuget\\packages\\",
-        "outputPath": "D:\\ResumeBuilderAssignment\\Infrastructure\\obj\\",
+        "outputPath": "D:\\Backend\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL ETC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -168,8 +168,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\ResumeBuilderAssignment\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\ResumeBuilderAssignment\\Domain\\Domain.csproj"
+              "D:\\Backend\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Backend\\Domain\\Domain.csproj"
               }
             }
           }

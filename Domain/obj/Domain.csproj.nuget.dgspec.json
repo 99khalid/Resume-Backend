@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ResumeBuilderAssignment\\Domain\\Domain.csproj": {}
+    "D:\\Backend\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\ResumeBuilderAssignment\\Domain\\Domain.csproj": {
+    "D:\\Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ResumeBuilderAssignment\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\ResumeBuilderAssignment\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\DELL ETC\\.nuget\\packages\\",
-        "outputPath": "D:\\ResumeBuilderAssignment\\Domain\\obj\\",
+        "outputPath": "D:\\Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL ETC\\AppData\\Roaming\\NuGet\\NuGet.Config",
