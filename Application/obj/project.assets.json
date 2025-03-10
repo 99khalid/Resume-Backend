@@ -3155,11 +3155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Backend\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\1\\Resume-Backend\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\Backend\\Application\\Application.csproj",
+      "projectPath": "D:\\1\\Resume-Backend\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\DELL ETC\\.nuget\\packages\\",
-      "outputPath": "D:\\Backend\\Application\\obj\\",
+      "outputPath": "D:\\1\\Resume-Backend\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL ETC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3176,11 +3176,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Backend\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Backend\\Domain\\Domain.csproj"
+            "D:\\1\\Resume-Backend\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\1\\Resume-Backend\\Domain\\Domain.csproj"
             },
-            "D:\\Backend\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\Backend\\Infrastructure\\Infrastructure.csproj"
+            "D:\\1\\Resume-Backend\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "D:\\1\\Resume-Backend\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

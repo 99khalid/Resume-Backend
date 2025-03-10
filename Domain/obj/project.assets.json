@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Backend\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\1\\Resume-Backend\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Backend\\Domain\\Domain.csproj",
+      "projectPath": "D:\\1\\Resume-Backend\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\DELL ETC\\.nuget\\packages\\",
-      "outputPath": "D:\\Backend\\Domain\\obj\\",
+      "outputPath": "D:\\1\\Resume-Backend\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL ETC\\AppData\\Roaming\\NuGet\\NuGet.Config",

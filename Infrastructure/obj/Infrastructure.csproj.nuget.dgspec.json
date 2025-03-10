@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Backend\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\1\\Resume-Backend\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Backend\\Domain\\Domain.csproj": {
+    "D:\\1\\Resume-Backend\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backend\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\1\\Resume-Backend\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Backend\\Domain\\Domain.csproj",
+        "projectPath": "D:\\1\\Resume-Backend\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\DELL ETC\\.nuget\\packages\\",
-        "outputPath": "D:\\Backend\\Domain\\obj\\",
+        "outputPath": "D:\\1\\Resume-Backend\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL ETC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "D:\\Backend\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\1\\Resume-Backend\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backend\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\1\\Resume-Backend\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Backend\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\1\\Resume-Backend\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\DELL ETC\\.nuget\\packages\\",
-        "outputPath": "D:\\Backend\\Infrastructure\\obj\\",
+        "outputPath": "D:\\1\\Resume-Backend\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL ETC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Backend\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Backend\\Domain\\Domain.csproj"
+              "D:\\1\\Resume-Backend\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\1\\Resume-Backend\\Domain\\Domain.csproj"
               }
             }
           }
