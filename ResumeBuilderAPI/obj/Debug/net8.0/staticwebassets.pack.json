@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ResumeBuilderAssignment\\ResumeBuilderAPI\\wwwroot\\Uploads\\Attachment.File\\54e2179b-78af-48cf-a4e6-e835aa7ffd44.png",
+      "PackagePath": "staticwebassets\\Uploads\\Attachment.File\\54e2179b-78af-48cf-a4e6-e835aa7ffd44.png"
+    },
+    {
+      "Id": "D:\\ResumeBuilderAssignment\\ResumeBuilderAPI\\wwwroot\\Uploads\\Attachment.File\\E93DmT2vZkiYdO3QRcNbjFqHx.png",
+      "PackagePath": "staticwebassets\\Uploads\\Attachment.File\\E93DmT2vZkiYdO3QRcNbjFqHx.png"
+    },
+    {
+      "Id": "D:\\ResumeBuilderAssignment\\ResumeBuilderAPI\\wwwroot\\Uploads\\Attachment.File\\h5Guw7dIqLrj9O83nNi5Z78bu.png",
+      "PackagePath": "staticwebassets\\Uploads\\Attachment.File\\h5Guw7dIqLrj9O83nNi5Z78bu.png"
+    },
+    {
+      "Id": "D:\\ResumeBuilderAssignment\\ResumeBuilderAPI\\wwwroot\\Uploads\\Attachment.File\\zp54FQ30GydTaUPgqXCHH5hE6.png",
+      "PackagePath": "staticwebassets\\Uploads\\Attachment.File\\zp54FQ30GydTaUPgqXCHH5hE6.png"
+    },
+    {
+      "Id": "D:\\ResumeBuilderAssignment\\ResumeBuilderAPI\\wwwroot\\Uploads\\d4720b34-ecc7-4595-b1e5-8baff7c2819e_README.md",
+      "PackagePath": "staticwebassets\\Uploads\\d4720b34-ecc7-4595-b1e5-8baff7c2819e_README.md"
+    },
+    {
+      "Id": "D:\\ResumeBuilderAssignment\\ResumeBuilderAPI\\wwwroot\\Uploads\\f0d19d5f-0d7d-401d-93d4-d90b7fbc9f63_Akudaya.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\f0d19d5f-0d7d-401d-93d4-d90b7fbc9f63_Akudaya.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ResumeBuilderAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ResumeBuilderAPI.props",
+      "PackagePath": "build\\ResumeBuilderAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ResumeBuilderAPI.props",
+      "PackagePath": "buildMultiTargeting\\ResumeBuilderAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ResumeBuilderAPI.props",
+      "PackagePath": "buildTransitive\\ResumeBuilderAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

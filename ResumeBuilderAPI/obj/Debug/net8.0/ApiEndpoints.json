@@ -1,0 +1,274 @@
+[
+  {
+    "ContainingType": "ResumeBuilderAPI.Controllers.RegisterController",
+    "Method": "Register",
+    "RelativePath": "api/Register/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Application.Features.UserFeatures.Command.RegisterUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ResumeBuilderAPI.Controllers.ResumeController",
+    "Method": "DeleteResume",
+    "RelativePath": "api/Resume/DeleteResume/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Infrastructure.ResponseDTOs.ResponseDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ResumeBuilderAPI.Controllers.ResumeController",
+    "Method": "GetAllResumes",
+    "RelativePath": "api/Resume/GetAllResumes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "Infrastructure.ResponseDTOs.ResponseDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ResumeBuilderAPI.Controllers.ResumeController",
+    "Method": "GetResumeById",
+    "RelativePath": "api/Resume/GetResumeById/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Infrastructure.ResponseDTOs.ResponseDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ResumeBuilderAPI.Controllers.ResumeController",
+    "Method": "PostNewResume",
+    "RelativePath": "api/Resume/PostNewResume",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PhoneNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Address",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Summary",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Educations",
+        "Type": "System.Collections.Generic.List\u00601[[Application.DTOs.EducationDto, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Skills",
+        "Type": "System.Collections.Generic.List\u00601[[Application.DTOs.SkillDto, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Attachment.File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Experiences",
+        "Type": "System.Collections.Generic.List\u00601[[Application.DTOs.ExperienceDto, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Infrastructure.ResponseDTOs.ResponseDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ResumeBuilderAPI.Controllers.ResumeController",
+    "Method": "PutResume",
+    "RelativePath": "api/Resume/PutResume",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ResumeId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "Resume.FullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Resume.Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Resume.PhoneNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Resume.Address",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Resume.Summary",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Resume.Educations",
+        "Type": "System.Collections.Generic.List\u00601[[Application.DTOs.EducationDto, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Resume.Skills",
+        "Type": "System.Collections.Generic.List\u00601[[Application.DTOs.SkillDto, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Resume.Attachment.File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Resume.Experiences",
+        "Type": "System.Collections.Generic.List\u00601[[Application.DTOs.ExperienceDto, Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Infrastructure.ResponseDTOs.ResponseDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ResumeBuilderAPI.Controllers.UsersController",
+    "Method": "AuthenticateUser",
+    "RelativePath": "api/Users/auth",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Application.Features.UserFeatures.Command.UserLoggingDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ResumeBuilderAPI.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ResumeBuilderAPI.WeatherForecast, ResumeBuilderAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
